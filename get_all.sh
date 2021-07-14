@@ -1,0 +1,22 @@
+#python isic_grabber/grab_isic.py 2018JIDEditorialImages -d $ISIC_PATH
+#python isic_grabber/grab_isic.py BCN20000 -d $ISIC_PATH
+#python isic_grabber/grab_isic.py BCN2020Challenge -d $ISIC_PATH
+#python isic_grabber/grab_isic.py BCN2020Challenge -d $ISIC_PATH
+#python isic_grabber/grab_isic.py BrisbaneISICChallenge2020 -d $ISIC_PATH
+#python isic_grabber/grab_isic.py DermoscopediaCC0 -d $ISIC_PATH
+#python isic_grabber/grab_isic.py DermoscopediaCCBY -d $ISIC_PATH
+#python isic_grabber/grab_isic.py DermoscopediaCCBYNC -d $ISIC_PATH
+python isic_grabber/grab_isic.py HAM10000 -d $ISIC_PATH
+#python isic_grabber/grab_isic.py ISIC2020ChallengeMSKCCcontribution -d $ISIC_PATH
+#python isic_grabber/grab_isic.py ISIC2020Viennapart2 -d $ISIC_PATH
+#python isic_grabber/grab_isic.py ISIC2020Viennapart1 -d $ISIC_PATH
+#python isic_grabber/grab_isic.py MSK1 -d $ISIC_PATH
+#python isic_grabber/grab_isic.py MSK2 -d $ISIC_PATH
+#python isic_grabber/grab_isic.py MSK3 -d $ISIC_PATH
+#python isic_grabber/grab_isic.py MSK4 -d $ISIC_PATH
+#python isic_grabber/grab_isic.py MSK5 -d $ISIC_PATH
+#python isic_grabber/grab_isic.py SONIC -d $ISIC_PATH
+#python isic_grabber/grab_isic.py SydneyMIASMDC2020ISICchallengecontribution -d $ISIC_PATH
+#python isic_grabber/grab_isic.py UDA1 -d $ISIC_PATH
+#python isic_grabber/grab_isic.py UDA2 -d $ISIC_PATH
+
